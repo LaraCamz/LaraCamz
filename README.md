@@ -1,4 +1,4 @@
-- 🌱 Estudando Java
+- 🌱 Back-End
 - 📫 contate-me: laracamileflim@gmail.com
 
 ## Olá, BEM-VINDO !!
