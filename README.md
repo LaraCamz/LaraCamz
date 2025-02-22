@@ -1,6 +1,6 @@
 # ✨ __Lara Camile__
 
-**`Desenvolvedora Backend`**
+**`Desenvolvedora - Backend`**
 
 *_Olá! Me chamo Lara, estudante de Análise e Desenvolvimento de Sistemas com foco em programação Back-end. Tenho paixão por tecnologia, aprendizado contínuo e estou sempre em busca de novos desafios.
 Além do foco em Back-end, também possuo conhecimentos em outras linguagens de programação, o que me permite ter uma visão mais ampla do desenvolvimento de sistemas e soluções tecnológicas._*
