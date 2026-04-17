@@ -1,6 +1,6 @@
 # ✨ __Lara Lima__
 
-**`Desenvolvedora Back-End`**
+**`Desenvolvedora Fullstack`**
 
 
   <p align="left">
