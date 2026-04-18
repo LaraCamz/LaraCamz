@@ -1,6 +1,6 @@
-# ✨ __Lara Lima__
+# ✨ __Lara Camz__
 
-**`Desenvolvedora Fullstack`**
+**`Developer Fullstack`**
 
 
   <p align="left">
